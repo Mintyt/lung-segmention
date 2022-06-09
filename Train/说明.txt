@@ -1,0 +1,3 @@
+MyModel.py  该文件包含实验中涉及到的所有网络模型
+
+train.py 训练文件，在纯分割时注释掉#DenseCRF之后的文件
